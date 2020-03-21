@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmA6XQbyk7eZDqUmmL8/5qSc096XwXs3KjfyWAkhXdK5XtN8S9FOQ0MKnUMHhaWv5fjkjBs4yoAqQ0hhR6E4nw==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Ale\\source\\repos\\DotNetCar\\CarDotNet\\CarDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ale\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\Ale\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\Ale\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

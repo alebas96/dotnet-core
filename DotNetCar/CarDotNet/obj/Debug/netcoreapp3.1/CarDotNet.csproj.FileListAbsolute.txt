@@ -1,0 +1,13 @@
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\bin\Debug\netcoreapp3.1\CarDotNet.exe
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\obj\Debug\netcoreapp3.1\CarDotNet.csprojAssemblyReference.cache
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\obj\Debug\netcoreapp3.1\CarDotNet.AssemblyInfoInputs.cache
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\obj\Debug\netcoreapp3.1\CarDotNet.AssemblyInfo.cs
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\bin\Debug\netcoreapp3.1\CarDotNet.deps.json
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\bin\Debug\netcoreapp3.1\CarDotNet.runtimeconfig.json
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\bin\Debug\netcoreapp3.1\CarDotNet.runtimeconfig.dev.json
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\bin\Debug\netcoreapp3.1\CarDotNet.dll
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\bin\Debug\netcoreapp3.1\CarDotNet.pdb
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\obj\Debug\netcoreapp3.1\CarDotNet.csproj.CoreCompileInputs.cache
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\obj\Debug\netcoreapp3.1\CarDotNet.dll
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\obj\Debug\netcoreapp3.1\CarDotNet.pdb
+E:\Users\Ale\source\repos\DotNetCar\CarDotNet\obj\Debug\netcoreapp3.1\CarDotNet.genruntimeconfig.cache

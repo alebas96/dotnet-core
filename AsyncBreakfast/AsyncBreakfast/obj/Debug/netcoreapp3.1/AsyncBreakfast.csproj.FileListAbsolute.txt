@@ -1,0 +1,13 @@
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.csprojAssemblyReference.cache
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.csproj.CoreCompileInputs.cache
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.AssemblyInfoInputs.cache
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.AssemblyInfo.cs
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.exe
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.deps.json
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.runtimeconfig.json
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.runtimeconfig.dev.json
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.dll
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\bin\Debug\netcoreapp3.1\AsyncBreakfast.pdb
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.dll
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.pdb
+E:\Users\Ale\source\repos\AsyncBreakfast\AsyncBreakfast\obj\Debug\netcoreapp3.1\AsyncBreakfast.genruntimeconfig.cache
